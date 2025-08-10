@@ -27,7 +27,7 @@ This leads to large possibilities of improvement of my algorithm in order to ach
 
 To get a quick visual overview of this project, check out the presentation deck:
 
-[Presentation deck (Slides)](https://github.com/TMAS-git/Team-repository/main/Project Presentation deck.pdf)
+[Presentation deck (Slides)](https://github.com/TMAS-git/Team-repository-/blob/main/Project%20Presentation%20deck.pdf)
 
 
 # Note:
